@@ -1,2 +1,2 @@
-# hello.py
+# main.py
 print("Hello, DevOps!")
